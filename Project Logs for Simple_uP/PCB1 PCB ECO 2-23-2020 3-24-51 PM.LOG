@@ -1,0 +1,11 @@
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Added Class: Name=USB_CLASS
+Added Differential Pair: Name=USBD
+Added Differential Pair: Name=USBH
+Added Room: Name=NAND + FLASH
+Added Room: Name=Power & Reset
+Added Room: Name=Sheet1
+Added Class: Name=USB

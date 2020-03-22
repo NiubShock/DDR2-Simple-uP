@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : W9751G6KB-25.LibPkg
+
+Section : F:\AD19\progetti\Simple_uP\Lib\W9751G6KB\W9751G6KB-25.lia
+    Section : PCB Library - W9751G6KB-25.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token W9751G6KB-25 On Line 279
+            Warning - 1 : Skipping Token attachedSymbol On Line 1086
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*BGA84C80P9X15_800X1250X120][Primary] associated with PCAD Component [W9751G6KB-25] has been renamed to PCB FootPrint [*BGA84C80P9X15_800X1250X120_W9751G6KB-25(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - W9751G6KB-25.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 170
+            Warning - 1 : Skipping Token layerContents On Line 256
+            Warning - 1 : Skipping Token layerContents On Line 262
+            Warning - 1 : Skipping Token layerContents On Line 269
+            Warning - 1 : Skipping Token layerContents On Line 273
+        EndSection
+
+        Section : Generating SCH Library - W9751G6KB-25.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*BGA84C80P9X15_800X1250X120][Primary] associated with PCAD Component [W9751G6KB-25] has been renamed to PCB FootPrint [*BGA84C80P9X15_800X1250X120_W9751G6KB-25(Primary)].
+        EndSection
+    EndSection
+EndSection

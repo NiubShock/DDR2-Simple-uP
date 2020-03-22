@@ -1,0 +1,8 @@
+Added Class: Name=DDR_ADDR_CTRL
+Added Class: Name=DDR_CLK_DIFF
+Added Differential Pair: Name=CLK
+Added Room: Name=NAND + FLASH
+Added Room: Name=Power & Reset
+Added Room: Name=Sheet1
+Added Rule: Name=Schematic Length Constraint_2
+Added Rule: Name=Schematic Matched Net Lengths_3

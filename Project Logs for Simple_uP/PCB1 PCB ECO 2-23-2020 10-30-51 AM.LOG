@@ -1,0 +1,8 @@
+Added Class: Name=ADDR_CTRL_CL
+Added Room: Name=NAND + FLASH
+Added Room: Name=Power & Reset
+Added Room: Name=Sheet1
+Added Rule: Name=Schematic Matched Net Lengths_2
+Added Rule: Name=Schematic Width Constraint
+Added Rule: Name=Schematic Width Constraint_1
+Added Rule: Name=Schematic Width Constraint_4

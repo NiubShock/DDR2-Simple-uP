@@ -1,0 +1,40 @@
+PCAD Importer Log
+Project : AT91SAM9N12-CU.LibPkg
+
+Section : F:\AD19\progetti\Simple_uP\Lib\AT91SAM9N12-CU.lia
+    Section : PCB Library - AT91SAM9N12-CU.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token AT91SAM9N12-CU_SECTION1 On Line 338
+            Warning - 1 : Skipping Token AT91SAM9N12-CU_SECTION2 On Line 930
+            Warning - 1 : Skipping Token AT91SAM9N12-CU_SECTION3 On Line 1315
+            Warning - 1 : Skipping Token AT91SAM9N12-CU_SECTION4 On Line 1808
+            Warning - 1 : Skipping Token AT91SAM9N12-CU_SECTION5 On Line 1995
+            Warning - 1 : Skipping Token attachedSymbol On Line 2589
+            Warning - 1 : Skipping Token attachedSymbol On Line 2590
+            Warning - 1 : Skipping Token attachedSymbol On Line 2591
+            Warning - 1 : Skipping Token attachedSymbol On Line 2592
+            Warning - 1 : Skipping Token attachedSymbol On Line 2593
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*BGA217C80P17X17_1500X1500X140N][Primary] associated with PCAD Component [AT91SAM9N12-CU] has been renamed to PCB FootPrint [*BGA217C80P17X17_1500X1500X140N_AT91SAM9N12-CU(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - AT91SAM9N12-CU.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 303
+            Warning - 1 : Skipping Token layerContents On Line 311
+            Warning - 1 : Skipping Token layerContents On Line 319
+            Warning - 1 : Skipping Token layerContents On Line 330
+            Warning - 1 : Skipping Token isVisible On Line 1986
+            Warning - 1 : Skipping Token isVisible On Line 2353
+        EndSection
+
+        Section : Generating SCH Library - AT91SAM9N12-CU.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*BGA217C80P17X17_1500X1500X140N][Primary] associated with PCAD Component [AT91SAM9N12-CU] has been renamed to PCB FootPrint [*BGA217C80P17X17_1500X1500X140N_AT91SAM9N12-CU(Primary)].
+        EndSection
+    EndSection
+EndSection

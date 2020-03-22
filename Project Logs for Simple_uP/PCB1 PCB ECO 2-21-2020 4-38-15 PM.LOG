@@ -1,0 +1,28 @@
+Added Component: Designator=C58(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0402ZD104JAT2A"; VariantName = "[No Variations]"
+Added Component: Designator=C59(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0402ZD104JAT2A"; VariantName = "[No Variations]"
+Added Component: Designator=C60(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0402ZD104JAT2A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3v3 Pin=C58-1
+Added Pin To Net: NetName=GND Pin=C58-2
+Added Pin To Net: NetName=3v3 Pin=C59-1
+Added Pin To Net: NetName=GND Pin=C59-2
+Added Pin To Net: NetName=3v3 Pin=C60-1
+Added Pin To Net: NetName=GND Pin=C60-2
+Added Member To Class: ClassName=NAND + FLASH Member=Component C58 100n
+Added Member To Class: ClassName=NAND + FLASH Member=Component C59 100n
+Added Member To Class: ClassName=NAND + FLASH Member=Component C60 100n
+Added Room: Name=NAND + FLASH
+Added Room: Name=Power & Reset
+Added Room: Name=Sheet1
+Added Rule: Name=Schematic Width Constraint
+Added Rule: Name=Schematic Width Constraint_1
+Added Rule: Name=Schematic Width Constraint_2
+Added Rule: Name=Schematic Width Constraint_3
+Added Rule: Name=Schematic Width Constraint_4
+Added Rule: Name=Schematic Width Constraint_5
+Added Rule: Name=Schematic Width Constraint_6

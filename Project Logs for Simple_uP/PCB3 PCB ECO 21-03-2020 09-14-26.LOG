@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=DDR_ADDR_CTRL Member=CLK_N
+Change Net Color : Old Net Color=Yellow New Net Color=Yellow
+Change Net Color : Old Net Color=Yellow New Net Color=Yellow
+Change Net Color : Old Net Color=Yellow New Net Color=Yellow
+Change Net Color : Old Net Color=Yellow New Net Color=Yellow
+Change Net Color : Old Net Color=Yellow New Net Color=Yellow
+Change Net Color : Old Net Color=Yellow New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=RGB(110, 255, 110)
+Added Room: Name=NAND + FLASH
+Added Room: Name=Power & Reset
+Added Room: Name=Sheet1
+Added Rule: Name=Schematic Length Constraint
+Added Rule: Name=Schematic Length Constraint_1
+Added Rule: Name=Schematic Length Constraint_2

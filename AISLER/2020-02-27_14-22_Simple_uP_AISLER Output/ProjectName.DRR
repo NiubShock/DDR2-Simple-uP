@@ -1,0 +1,54 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB2.PcbDoc   2/27/2020  2:22:23 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : ProjectName-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : ProjectName-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : ProjectName-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.203mm)                                            Round             25        PTH        0.00inch (0.00mm)
+T2      12mil (0.3mm)                                             Round             5         PTH        0.00inch (0.00mm)
+T3      35mil (0.899mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T4      39mil (1.001mm)                                           Slot              2         PTH        0.00inch (0.00mm)
+T5      43mil (1.1mm)                                             Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              36
+Layer Pair : Top Layer to Layer 1
+ASCII Plated RoundHoles File : ProjectName-RoundHoles-Plated.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.203mm)                                            Round             50        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              50
+Layer Pair : Top Layer to Layer 2
+ASCII Plated RoundHoles File : ProjectName-RoundHoles-Plated.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.203mm)                                            Round             87        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              87
+Layer Pair : Layer 1 to Layer 2
+ASCII Plated RoundHoles File : ProjectName-RoundHoles-Plated.TX3
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.203mm)                                            Round             6         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              6
+Layer Pair : Layer 2 to Bottom Layer
+ASCII Plated RoundHoles File : ProjectName-RoundHoles-Plated.TX4
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.203mm)                                            Round             52        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              52
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              231
+
+Total Processing Time (hh:mm:ss) : 00:00:01

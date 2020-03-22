@@ -1,0 +1,8 @@
+Layer Pairs Export File for PCB: C:\Users\alle9\OneDrive\Personal\Board Development\Altium\Project\Simple_uP\PCB2.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=projectname-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=projectname-slotholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=projectname-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_1_Blind_Vias|DrillFile=|DrillLayers=gtl,g1
+LayersSetName=Top_2_Blind_Vias|DrillFile=|DrillLayers=gtl,g1,g2
+LayersSetName=1_2_Buried_Vias|DrillFile=|DrillLayers=g1,g2
+LayersSetName=2_Bot_Blind_Vias|DrillFile=|DrillLayers=g2,gbl
